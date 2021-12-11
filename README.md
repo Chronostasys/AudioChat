@@ -9,7 +9,7 @@ while playing 7dtd. It's really simple.
 
 ## Features
 
-What it provide:
+What it provides:
 - multi-user live voice chat
 - low memory and cpou usage
 - auto-reconnect and auto-device-switch
