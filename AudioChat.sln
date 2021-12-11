@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.31903.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AudioChat", "AudioChat\AudioChat.csproj", "{5FED5EDD-F2FE-46F6-887F-3595E5C3A827}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AudioChatClient", "AudioChatClient\AudioChatClient.csproj", "{CF975439-ACC6-401E-B616-36C8D581F4BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FED5EDD-F2FE-46F6-887F-3595E5C3A827}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FED5EDD-F2FE-46F6-887F-3595E5C3A827}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FED5EDD-F2FE-46F6-887F-3595E5C3A827}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FED5EDD-F2FE-46F6-887F-3595E5C3A827}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF975439-ACC6-401E-B616-36C8D581F4BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF975439-ACC6-401E-B616-36C8D581F4BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF975439-ACC6-401E-B616-36C8D581F4BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF975439-ACC6-401E-B616-36C8D581F4BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7940AE8-1339-4F7B-A5F1-AC7ECD864C3D}
+	EndGlobalSection
+EndGlobal
