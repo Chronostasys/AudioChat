@@ -11,7 +11,7 @@ while playing 7dtd. It's really simple.
 
 What it provides:
 - multi-user live voice chat
-- low memory and cpou usage
+- low memory and cpu usage
 - auto-reconnect and auto-device-switch
 - latency control
 - simple noise filtering
